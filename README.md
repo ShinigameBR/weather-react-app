@@ -35,4 +35,4 @@
 
 ## Acesso ao projeto
 
-Você pode [visualizar o código fonte do projeto](https://github.com/ShinigameBR/weather-react-app) ou [acessá-lo diretamente](https://shin-weather-react.herokuapp.com/).
+Você pode [visualizar o código fonte do projeto](https://github.com/ShinigameBR/weather-react-app) ou [acessá-lo diretamente](https://shin-weather-react-app.netlify.app/).
